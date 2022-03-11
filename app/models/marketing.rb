@@ -1,0 +1,3 @@
+class Marketing < ApplicationRecord
+
+end
